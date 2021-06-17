@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(../img/LOGOI.jpg) no-repeat center top;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+  }
+  
+.antiguos{
+    background-color:transparent;
+    width: 220px;
+    height: 300px;
+    float: left;
+}
+.antiguos2{
+    background-color:rgb(5, 5, 5);
+    width: 450px;
+    height: 350px;
+    float: left;
+}
+.antiguos3{
+    background-color:rgba(14, 1, 1, 0.959);
+    width: 450px;
+    height: 350px;
+    float: left;
+}
+        
